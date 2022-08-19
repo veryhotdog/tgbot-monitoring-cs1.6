@@ -19,4 +19,4 @@ https://pytba.readthedocs.io/en/latest/install.html
     #------------------------------------------------------------------------------------------------------------------------------------------------
     ```
 2. Add the /mon command for your bot with @BotFather
-3. Run the programm. Bot must work :)
+3. Run the programm. Bot should work :)
